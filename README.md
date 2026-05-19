@@ -82,7 +82,7 @@ This project aims to:
 ---
 
 ## 📷 Dashboard Preview
-
+https://github.com/Subhadeep65/IndiGo-Project-/blob/main/indigo-Dashboard%20.jpg
 
 ---
 
